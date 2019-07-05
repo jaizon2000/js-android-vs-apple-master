@@ -1,3 +1,6 @@
+'use strict';
+
+// Event Listeners
 document.getElementById('android-btn').addEventListener('click', getAndroid);
 document.getElementById('apple-btn').addEventListener('click', getApple);
 //  Functions
